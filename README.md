@@ -48,3 +48,6 @@ Used the Group By feature to calculate the total sales for each Category.
 
 Result
 The raw sales data was successfully cleaned, organized, and transformed into a structured dataset. The final output can now be used to analyze yearly, monthly, quarterly, regional, category-wise, and performance-based sales information more effectively.
+![image alt](https://github.com/Anusha14062005/PowerBI-task/blob/43bcb11178148d353bd096ec8c90b71584a76609/Screenshot%202026-09-21%20193250.png)
+![image alt]
+![image alt]
